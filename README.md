@@ -4,4 +4,4 @@ Please make sure to have the following installed:
 * pytest
 
 ## How to run the tests
-To run the test, go to *tests* directory, then execute *pytest*
+To run the test, go to *tests* directory, then execute `pytest`
